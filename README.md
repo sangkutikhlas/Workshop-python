@@ -1,8 +1,8 @@
 # Workshop-python
-APA ITU PYTHON
+#APA ITU PYTHON
 python adalah salah satu bahasa pemrograman yang dapat melakukan eksekusi sejumlah instruksi multi guna secara langsung ( interpretatif ) dengan metode orientasi objek (object oriented programming) serta dapat mengunakan semantik secara dinamis untuk memberikan tingkat keterbacaan syntax. yang merupakan bahasa pemrograman tinggi serta pemrograman bahasa yang tinggi . python dapat dipelajarin dengan mudah karena sudah dilengkapi dengan mengunakan manajemen memori otomatis (pointer)
 
-Interpreter Python
+#Interpreter Python
 Sintaks python merupakan bahasa interpreter . yang dimaksud dengan interpreter maksudnya bahasa python yang akan memproses kode program secara baris perbaris , berbeda dengan compiler.
 
 Angka
